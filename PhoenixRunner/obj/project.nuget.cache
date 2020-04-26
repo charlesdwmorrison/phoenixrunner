@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E0nEHcEM+Jx0Sk2iwfLolkF3CsWo1rTp3cb44uFcE1X35n/bCKYTmQhvT+BiwXXeHNlfaLXezS/tPXO7DzWIdw==",
+  "success": true,
+  "projectFilePath": "C:\\Repos\\PhoenixRunner\\PhoenixRunner\\PhoenixRunner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\restsharp\\106.10.1\\restsharp.106.10.1.nupkg.sha512"
+  ],
+  "logs": []
+}

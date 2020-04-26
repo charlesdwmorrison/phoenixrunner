@@ -1,0 +1,17 @@
+C:\Repos\PhoenixRunner\PhoenixRunner\PhoenixRunner\obj\Debug\netcoreapp3.1\PhoenixRunner.AssemblyInfoInputs.cache
+C:\Repos\PhoenixRunner\PhoenixRunner\PhoenixRunner\obj\Debug\netcoreapp3.1\PhoenixRunner.AssemblyInfo.cs
+C:\Repos\PhoenixRunner\PhoenixRunner\PhoenixRunner\obj\Debug\netcoreapp3.1\PhoenixRunner.csproj.CoreCompileInputs.cache
+C:\Repos\PhoenixRunner\PhoenixRunner\PhoenixRunner\bin\Debug\netcoreapp3.1\PhoenixRunner.deps.json
+C:\Repos\PhoenixRunner\PhoenixRunner\PhoenixRunner\bin\Debug\netcoreapp3.1\PhoenixRunner.dll
+C:\Repos\PhoenixRunner\PhoenixRunner\PhoenixRunner\bin\Debug\netcoreapp3.1\PhoenixRunner.pdb
+C:\Repos\PhoenixRunner\PhoenixRunner\PhoenixRunner\obj\Debug\netcoreapp3.1\PhoenixRunner.dll
+C:\Repos\PhoenixRunner\PhoenixRunner\PhoenixRunner\obj\Debug\netcoreapp3.1\PhoenixRunner.pdb
+C:\Repos\PhoenixRunner\PhoenixRunner\bin\Debug\netcoreapp3.1\PhoenixRunner.deps.json
+C:\Repos\PhoenixRunner\PhoenixRunner\bin\Debug\netcoreapp3.1\PhoenixRunner.dll
+C:\Repos\PhoenixRunner\PhoenixRunner\bin\Debug\netcoreapp3.1\PhoenixRunner.pdb
+C:\Repos\PhoenixRunner\PhoenixRunner\obj\Debug\netcoreapp3.1\PhoenixRunner.csprojAssemblyReference.cache
+C:\Repos\PhoenixRunner\PhoenixRunner\obj\Debug\netcoreapp3.1\PhoenixRunner.AssemblyInfoInputs.cache
+C:\Repos\PhoenixRunner\PhoenixRunner\obj\Debug\netcoreapp3.1\PhoenixRunner.AssemblyInfo.cs
+C:\Repos\PhoenixRunner\PhoenixRunner\obj\Debug\netcoreapp3.1\PhoenixRunner.csproj.CoreCompileInputs.cache
+C:\Repos\PhoenixRunner\PhoenixRunner\obj\Debug\netcoreapp3.1\PhoenixRunner.dll
+C:\Repos\PhoenixRunner\PhoenixRunner\obj\Debug\netcoreapp3.1\PhoenixRunner.pdb
